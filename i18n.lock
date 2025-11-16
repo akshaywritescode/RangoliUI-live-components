@@ -1,4 +1,7 @@
 version: 1
 checksums:
   4188a166aad2705b4f09401f924502ed:
-    greeting: e5c4880fef990edc98e20db92aff718d
+    get_started: 1d5f030c4ec9c869e647ae060518b948
+    documentation: 1563fcb5ddb5037b0709ccd3dd384a92
+    contribute: d0ef249dffa01dc9851b9e436e562349
+    donate: dc5e7e3d3f4c453b85bd549a898f1775

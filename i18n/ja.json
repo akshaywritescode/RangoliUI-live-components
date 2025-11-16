@@ -1,3 +1,6 @@
 {
-  "greeting": "Lingo.devからこんにちは"
+  "get_started": "はじめる",
+  "documentation": "ドキュメント",
+  "contribute": "貢献する",
+  "donate": "寄付する"
 }

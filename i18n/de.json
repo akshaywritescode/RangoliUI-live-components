@@ -1,3 +1,6 @@
 {
-  "greeting": "Hallo von Lingo.dev"
+  "get_started": "Loslegen",
+  "documentation": "Dokumentation",
+  "contribute": "Mitwirken",
+  "donate": "Spenden"
 }

@@ -1,3 +1,6 @@
 {
-	"greeting": "Hello from Lingo.dev"
+	"get_started": "Get Started",
+	"documentation": "Documentation",
+	"contribute": "Contribute",
+	"donate": "Donate"
 }
