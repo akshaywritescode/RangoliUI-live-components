@@ -32,7 +32,7 @@ export default function RootLayout({
         <I18nProvider>
           <ThemeProvider
             attribute="class"
-            defaultTheme="system"
+            defaultTheme="light"
             enableSystem
             disableTransitionOnChange
           >{children}</ThemeProvider></I18nProvider>
