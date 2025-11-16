@@ -17,7 +17,7 @@ export default function Home() {
              <Link href={"/separator"} className="underline">Separator</Link>
           </li>
           <li>
-             <Link href={"/separator-with-text"} className="underline">Separator</Link>
+             <Link href={"/separator-with-text"} className="underline">Separator with text</Link>
           </li>
         </ul>
       </div>
@@ -27,6 +27,15 @@ export default function Home() {
         <ul className="mt-3 ml-5 flex flex-col gap-2">
           <li>
             <Link href={"/header"} className="underline">Header</Link>
+          </li>
+          <li>
+            <Link href={"/testimonial-card"} className="underline">Testimonial Card</Link>
+          </li>
+          <li>
+            <Link href={"/testimonial-section"} className="underline">Testimonial Section</Link>
+          </li>
+            <li>
+            <Link href={"/pricing-card"} className="underline">Pricing Card</Link>
           </li>
         </ul>
       </div>
