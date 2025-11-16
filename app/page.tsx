@@ -16,6 +16,9 @@ export default function Home() {
           <li>
              <Link href={"/separator"} className="underline">Separator</Link>
           </li>
+          <li>
+             <Link href={"/separator-with-text"} className="underline">Separator</Link>
+          </li>
         </ul>
       </div>
       {/* Landing Page Components */}
