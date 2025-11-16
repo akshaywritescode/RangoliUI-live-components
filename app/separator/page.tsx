@@ -1,5 +1,5 @@
 import { Card } from "@/components/ui/card";
-import Separator from "../components/Separator";
+import Separator from "@/app/components/Separator";
 
 export default function SeparatorExample() {
     return <div className="flex justify-center items-center h-screen w-screen">
