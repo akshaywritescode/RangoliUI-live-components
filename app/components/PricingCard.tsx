@@ -34,9 +34,9 @@ export default function PricingCard({
 }) {
   return (
     <Card className="w-[350px] flex flex-col items-center relative">
-      <CardHeader>
-        <CardTitle className="text-center mb-5 w-full">{planTitle}</CardTitle>
-        <CardDescription className="text-center w-full">
+      <CardHeader className="h-[70px]">
+        <CardTitle className="text-center mb-5 absolute -translate-x-1/2">{planTitle}</CardTitle>
+        <CardDescription className="text-center w-[90%] absolute -translate-x-1/2 mt-10">
           {planDescription}
         </CardDescription>
       </CardHeader>
